@@ -49,6 +49,3 @@ const Removed = categories.pop();
 
 
 
-
-
-
